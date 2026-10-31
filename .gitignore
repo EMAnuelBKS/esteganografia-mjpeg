@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+.vscode/
+*.mp4
+*.mjpeg
+*.jpg
+*.jpeg
+!tests/vectors/*.jpg
